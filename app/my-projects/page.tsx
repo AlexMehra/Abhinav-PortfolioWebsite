@@ -4,8 +4,8 @@ import React from "react";
 
 const Page = () => {
   return (
-    <div
-      style={{ backgroundImage: "url(/mountains.jpg)" }}
+     <div
+      style={{ backgroundImage: "url(/bg-2.jpg)" }}
       className="w-screen h-screen bg-fixed bg-center bg-cover"
     >
       <div className="h-full overflow-y-auto p-4 md:flex md:items-center md:justify-center pt-28 pb-28">
