@@ -4,7 +4,7 @@ import React from "react";
 
 const Page = () => {
   return (
-     <div
+    <div
       style={{ backgroundImage: "url(/bg-2.jpg)" }}
       className="w-screen h-screen bg-fixed bg-center bg-cover"
     >
@@ -32,10 +32,10 @@ const Page = () => {
           />
 
           <ProjectCard
-            image="SpaceWebsite.png"
-            title="Space Themed Portfolio Website"
-            text="A beautifully crafted space-themed portfolio website."
-            link="https://nextjs-space-website.vercel.app/"
+            image="CryptoHome.png"
+            title="Crypto Home"
+            text="A web app which can be used for ananlysis and getting update of cryptocurreny made using react and Coingekko Api."
+            link="https://crypto-home-three.vercel.app/"
           />
         </div>
       </div>
