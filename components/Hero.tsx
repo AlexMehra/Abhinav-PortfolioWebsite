@@ -77,7 +77,7 @@ export default function Hero() {
 
             <div className="flex flex-col md:flex-row gap-2 pt-14 pb-20" >
               <Link
-                href="https://drive.google.com/file/d/1OlWPJ6ZsGUq6T9Hs7Fp6-0EPbcW7g26U/view?usp=sharing"
+                href="https://drive.google.com/file/d/1xP9YUJanb7onBFTL35povXa-F7VxwYi5/view?usp=drive_link"
                 className="rounded-[20px] group relative bg-blue-700 hover:bg-blue-400 px-5 py-3 text-lg text-white max-w-[200px]"
               >
                 My Resume
